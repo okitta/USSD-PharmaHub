@@ -1,0 +1,602 @@
+[
+    {
+      "pharmacy_name": "Watsica LLC",
+      "location": "Farmington",
+      "phone_number": "(314) 969-6112 x572",
+      "id": "1"
+    },
+    {
+      "pharmacy_name": "Haag - Lueilwitz",
+      "location": "York",
+      "phone_number": "1-799-692-1503 x0635",
+      "id": "2"
+    },
+    {
+      "pharmacy_name": "Hartmann, Wunsch and Swift",
+      "location": "Jefferson City",
+      "phone_number": "(590) 216-1929 x453",
+      "id": "3"
+    },
+    {
+      "pharmacy_name": "Kris - Yost",
+      "location": "Euless",
+      "phone_number": "608.313.6973 x794",
+      "id": "4"
+    },
+    {
+      "pharmacy_name": "Erdman LLC",
+      "location": "Arlington",
+      "phone_number": "1-674-868-2548 x75088",
+      "id": "5"
+    },
+    {
+      "pharmacy_name": "Wuckert - McDermott",
+      "location": "Boulder",
+      "phone_number": "(703) 564-1397 x016",
+      "id": "6"
+    },
+    {
+      "pharmacy_name": "Roberts LLC",
+      "location": "Milwaukee",
+      "phone_number": "519-337-6273 x42402",
+      "id": "7"
+    },
+    {
+      "pharmacy_name": "Pfannerstill - Reinger",
+      "location": "Grand Prairie",
+      "phone_number": "267-746-8016 x439",
+      "id": "8"
+    },
+    {
+      "pharmacy_name": "Hodkiewicz, Graham and Schultz",
+      "location": "Bismarck",
+      "phone_number": "1-949-304-4147",
+      "id": "9"
+    },
+    {
+      "pharmacy_name": "Lowe, West and Kuhn",
+      "location": "Santa Cruz",
+      "phone_number": "(888) 433-3932 x149",
+      "id": "10"
+    },
+    {
+      "pharmacy_name": "Hackett - Schimmel",
+      "location": "Baldwin Park",
+      "phone_number": "619-506-4630 x674",
+      "id": "11"
+    },
+    {
+      "pharmacy_name": "Willms - Moore",
+      "location": "Trenton",
+      "phone_number": "234-971-4482 x793",
+      "id": "12"
+    },
+    {
+      "pharmacy_name": "Kreiger, Larkin and Hintz",
+      "location": "Silver Spring",
+      "phone_number": "773.801.7998 x08428",
+      "id": "13"
+    },
+    {
+      "pharmacy_name": "Upton Group",
+      "location": "Taunton",
+      "phone_number": "328-438-1527 x8058",
+      "id": "14"
+    },
+    {
+      "pharmacy_name": "Sawayn Inc",
+      "location": "Brooklyn Park",
+      "phone_number": "(515) 991-4269 x40445",
+      "id": "15"
+    },
+    {
+      "pharmacy_name": "Spinka - Carroll",
+      "location": "Denver",
+      "phone_number": "(557) 951-4750",
+      "id": "16"
+    },
+    {
+      "pharmacy_name": "Wunsch, O'Kon and Mraz",
+      "location": "El Monte",
+      "phone_number": "564.766.6457 x957",
+      "id": "17"
+    },
+    {
+      "pharmacy_name": "Hackett - Schiller",
+      "location": "Victoria",
+      "phone_number": "(875) 346-7577",
+      "id": "18"
+    },
+    {
+      "pharmacy_name": "Gleichner, Kovacek and Dickens",
+      "location": "Fullerton",
+      "phone_number": "768.342.6115 x0026",
+      "id": "19"
+    },
+    {
+      "pharmacy_name": "Wilkinson, Block and Littel",
+      "location": "Castro Valley",
+      "phone_number": "590-344-7055",
+      "id": "20"
+    },
+    {
+      "pharmacy_name": "Casper, King and Morissette",
+      "location": "Jackson",
+      "phone_number": "245-821-3156",
+      "id": "21"
+    },
+    {
+      "pharmacy_name": "McClure, Walsh and Herman",
+      "location": "Madison",
+      "phone_number": "1-708-284-0957 x68016",
+      "id": "22"
+    },
+    {
+      "pharmacy_name": "Bogan, Walker and Stokes",
+      "location": "Lompoc",
+      "phone_number": "256-595-6129 x9818",
+      "id": "23"
+    },
+    {
+      "pharmacy_name": "Langosh - Wunsch",
+      "location": "North Bethesda",
+      "phone_number": "534.976.2048 x8972",
+      "id": "24"
+    },
+    {
+      "pharmacy_name": "Hermiston, Christiansen and Franey",
+      "location": "Palm Desert",
+      "phone_number": "1-548-408-6216 x8528",
+      "id": "25"
+    },
+    {
+      "pharmacy_name": "Pfeffer - Trantow",
+      "location": "Buffalo Grove",
+      "phone_number": "847-299-0878",
+      "id": "26"
+    },
+    {
+      "pharmacy_name": "Spencer - Smitham",
+      "location": "Palo Alto",
+      "phone_number": "(262) 447-3701",
+      "id": "27"
+    },
+    {
+      "pharmacy_name": "Fritsch, Weber and Leuschke",
+      "location": "Wilson",
+      "phone_number": "547.525.5318 x012",
+      "id": "28"
+    },
+    {
+      "pharmacy_name": "Raynor - Bashirian",
+      "location": "St. Paul",
+      "phone_number": "740-503-2691",
+      "id": "29"
+    },
+    {
+      "pharmacy_name": "Sporer, Effertz and Stanton",
+      "location": "New Braunfels",
+      "phone_number": "(977) 271-5308 x4831",
+      "id": "30"
+    },
+    {
+      "pharmacy_name": "Hagenes - Price",
+      "location": "Beaumont",
+      "phone_number": "227.244.2516",
+      "id": "31"
+    },
+    {
+      "pharmacy_name": "Daugherty LLC",
+      "location": "Dothan",
+      "phone_number": "500-660-1948",
+      "id": "32"
+    },
+    {
+      "pharmacy_name": "Ritchie - Denesik",
+      "location": "Garden Grove",
+      "phone_number": "(257) 527-4331 x5706",
+      "id": "33"
+    },
+    {
+      "pharmacy_name": "Turcotte, Walker and Volkman",
+      "location": "Boynton Beach",
+      "phone_number": "(523) 307-1926",
+      "id": "34"
+    },
+    {
+      "pharmacy_name": "Herman Group",
+      "location": "Kenosha",
+      "phone_number": "698-317-2214 x5845",
+      "id": "35"
+    },
+    {
+      "pharmacy_name": "Emmerich Inc",
+      "location": "Pine Hills",
+      "phone_number": "(223) 315-8333",
+      "id": "36"
+    },
+    {
+      "pharmacy_name": "Medhurst - Grady",
+      "location": "Minot",
+      "phone_number": "953-351-1456 x7015",
+      "id": "37"
+    },
+    {
+      "pharmacy_name": "Waelchi, O'Kon and Wyman",
+      "location": "Providence",
+      "phone_number": "1-461-415-4846 x11249",
+      "id": "38"
+    },
+    {
+      "pharmacy_name": "Botsford and Sons",
+      "location": "Broken Arrow",
+      "phone_number": "(371) 641-6111 x97818",
+      "id": "39"
+    },
+    {
+      "pharmacy_name": "Heller, Schinner and Rau",
+      "location": "Pasco",
+      "phone_number": "687.718.8742 x545",
+      "id": "40"
+    },
+    {
+      "pharmacy_name": "Rosenbaum, Gusikowski and Wiza",
+      "location": "El Dorado Hills",
+      "phone_number": "(417) 720-0490",
+      "id": "41"
+    },
+    {
+      "pharmacy_name": "Bergnaum, Bogisich and Schneider",
+      "location": "San Rafael",
+      "phone_number": "(480) 647-7202 x4120",
+      "id": "42"
+    },
+    {
+      "pharmacy_name": "Morissette and Sons",
+      "location": "Antioch",
+      "phone_number": "1-325-336-3099 x89874",
+      "id": "43"
+    },
+    {
+      "pharmacy_name": "Green, Gutkowski and Hansen",
+      "location": "Edina",
+      "phone_number": "704-413-7255 x590",
+      "id": "44"
+    },
+    {
+      "pharmacy_name": "Emmerich - Breitenberg",
+      "location": "Hattiesburg",
+      "phone_number": "973.926.3306 x7360",
+      "id": "45"
+    },
+    {
+      "pharmacy_name": "Marvin, Feeney and Johns",
+      "location": "Bakersfield",
+      "phone_number": "(781) 430-2843 x08295",
+      "id": "46"
+    },
+    {
+      "pharmacy_name": "Breitenberg - Nikolaus",
+      "location": "Florissant",
+      "phone_number": "1-593-459-2376 x195",
+      "id": "47"
+    },
+    {
+      "pharmacy_name": "Huel LLC",
+      "location": "Santa Barbara",
+      "phone_number": "(662) 456-7810",
+      "id": "48"
+    },
+    {
+      "pharmacy_name": "Johnston and Sons",
+      "location": "Cheyenne",
+      "phone_number": "1-770-889-5104 x8771",
+      "id": "49"
+    },
+    {
+      "pharmacy_name": "Harvey, Luettgen and Toy",
+      "location": "Terre Haute",
+      "phone_number": "550.408.3696 x6060",
+      "id": "50"
+    },
+    {
+      "pharmacy_name": "Senger - Lemke",
+      "location": "Beavercreek",
+      "phone_number": "972-214-8736",
+      "id": "51"
+    },
+    {
+      "pharmacy_name": "Kuhn - Cole",
+      "location": "Grand Island",
+      "phone_number": "407-816-8914",
+      "id": "52"
+    },
+    {
+      "pharmacy_name": "Medhurst, Stamm and Simonis",
+      "location": "Hialeah",
+      "phone_number": "887.702.0602 x266",
+      "id": "53"
+    },
+    {
+      "pharmacy_name": "Hegmann - Rohan",
+      "location": "Bellevue",
+      "phone_number": "310-801-9659",
+      "id": "54"
+    },
+    {
+      "pharmacy_name": "Fahey - Armstrong",
+      "location": "Rocklin",
+      "phone_number": "1-614-760-0137 x8222",
+      "id": "55"
+    },
+    {
+      "pharmacy_name": "Haag, Raynor and Carroll",
+      "location": "Fishers",
+      "phone_number": "485-765-6913 x51304",
+      "id": "56"
+    },
+    {
+      "pharmacy_name": "Heaney, Thompson and Kihn",
+      "location": "Manhattan",
+      "phone_number": "423-281-1793 x2196",
+      "id": "57"
+    },
+    {
+      "pharmacy_name": "Gusikowski, Volkman and Harvey",
+      "location": "Reading",
+      "phone_number": "882.838.4797 x9322",
+      "id": "58"
+    },
+    {
+      "pharmacy_name": "Kuvalis Group",
+      "location": "Fort Collins",
+      "phone_number": "1-330-217-9993 x702",
+      "id": "59"
+    },
+    {
+      "pharmacy_name": "Kiehn LLC",
+      "location": "Jersey City",
+      "phone_number": "732.219.4304 x0836",
+      "id": "60"
+    },
+    {
+      "pharmacy_name": "Thiel, Dare and Mueller",
+      "location": "Strongsville",
+      "phone_number": "692-729-8908",
+      "id": "61"
+    },
+    {
+      "pharmacy_name": "Gerlach, McDermott and Wiza",
+      "location": "Clearwater",
+      "phone_number": "1-726-475-4919 x3836",
+      "id": "62"
+    },
+    {
+      "pharmacy_name": "Zboncak Group",
+      "location": "Beaumont",
+      "phone_number": "565.863.3180",
+      "id": "63"
+    },
+    {
+      "pharmacy_name": "Walker - Monahan",
+      "location": "Cape Coral",
+      "phone_number": "883-333-8902 x38527",
+      "id": "64"
+    },
+    {
+      "pharmacy_name": "Keebler, Larson and Grant",
+      "location": "Camarillo",
+      "phone_number": "1-206-745-5894",
+      "id": "65"
+    },
+    {
+      "pharmacy_name": "Haley, Runolfsson and Wyman",
+      "location": "West Valley City",
+      "phone_number": "1-260-822-0230 x326",
+      "id": "66"
+    },
+    {
+      "pharmacy_name": "Schimmel Group",
+      "location": "Morgan Hill",
+      "phone_number": "704-357-8866 x9391",
+      "id": "67"
+    },
+    {
+      "pharmacy_name": "Crist - Schumm",
+      "location": "Rancho Cordova",
+      "phone_number": "775-957-5424",
+      "id": "68"
+    },
+    {
+      "pharmacy_name": "Ortiz - Rice",
+      "location": "Rancho Cucamonga",
+      "phone_number": "1-918-397-1467 x659",
+      "id": "69"
+    },
+    {
+      "pharmacy_name": "Heathcote - Towne",
+      "location": "Sheboygan",
+      "phone_number": "830-580-0923 x246",
+      "id": "70"
+    },
+    {
+      "pharmacy_name": "Connelly, Lakin and McCullough",
+      "location": "Hamilton",
+      "phone_number": "308-209-3883 x242",
+      "id": "71"
+    },
+    {
+      "pharmacy_name": "Predovic, Lemke and Hamill",
+      "location": "San Luis Obispo",
+      "phone_number": "398.441.3329",
+      "id": "72"
+    },
+    {
+      "pharmacy_name": "Kertzmann - Schamberger",
+      "location": "West Valley City",
+      "phone_number": "468.991.1562 x166",
+      "id": "73"
+    },
+    {
+      "pharmacy_name": "Braun and Sons",
+      "location": "Warren",
+      "phone_number": "879-645-7735 x74257",
+      "id": "74"
+    },
+    {
+      "pharmacy_name": "Bernhard and Sons",
+      "location": "Bountiful",
+      "phone_number": "(995) 574-5011",
+      "id": "75"
+    },
+    {
+      "pharmacy_name": "Denesik Inc",
+      "location": "Indio",
+      "phone_number": "1-578-296-5188 x173",
+      "id": "76"
+    },
+    {
+      "pharmacy_name": "Lehner - Koss",
+      "location": "Lansing",
+      "phone_number": "(405) 616-2744 x009",
+      "id": "77"
+    },
+    {
+      "pharmacy_name": "Hills - Wisoky",
+      "location": "Milwaukee",
+      "phone_number": "623-643-2034 x529",
+      "id": "78"
+    },
+    {
+      "pharmacy_name": "Bruen LLC",
+      "location": "Birmingham",
+      "phone_number": "449.543.6863 x5843",
+      "id": "79"
+    },
+    {
+      "pharmacy_name": "Gibson Group",
+      "location": "Grand Rapids",
+      "phone_number": "918-357-8149 x6001",
+      "id": "80"
+    },
+    {
+      "pharmacy_name": "Bashirian - Johns",
+      "location": "San Diego",
+      "phone_number": "1-574-856-9739 x299",
+      "id": "81"
+    },
+    {
+      "pharmacy_name": "Emmerich, McKenzie and Weimann",
+      "location": "Elgin",
+      "phone_number": "913.964.6395",
+      "id": "82"
+    },
+    {
+      "pharmacy_name": "Kerluke LLC",
+      "location": "Roswell",
+      "phone_number": "799-999-8755 x03986",
+      "id": "83"
+    },
+    {
+      "pharmacy_name": "Nienow, Morar and Dooley",
+      "location": "Virginia Beach",
+      "phone_number": "451.421.3933",
+      "id": "84"
+    },
+    {
+      "pharmacy_name": "Durgan, Hamill and Zieme",
+      "location": "Eagan",
+      "phone_number": "(945) 778-9522 x8628",
+      "id": "85"
+    },
+    {
+      "pharmacy_name": "White LLC",
+      "location": "Davenport",
+      "phone_number": "(384) 654-4320 x5620",
+      "id": "86"
+    },
+    {
+      "pharmacy_name": "Kutch, Lakin and Hoppe",
+      "location": "Warner Robins",
+      "phone_number": "1-215-565-9509 x12573",
+      "id": "87"
+    },
+    {
+      "pharmacy_name": "O'Conner, Goldner and Johnston",
+      "location": "Scranton",
+      "phone_number": "778.352.3216 x9267",
+      "id": "88"
+    },
+    {
+      "pharmacy_name": "Hoeger Inc",
+      "location": "Corpus Christi",
+      "phone_number": "827.414.7467 x562",
+      "id": "89"
+    },
+    {
+      "pharmacy_name": "Durgan - Olson",
+      "location": "Bartlett",
+      "phone_number": "603-219-5419",
+      "id": "90"
+    },
+    {
+      "pharmacy_name": "Kreiger - Bradtke",
+      "location": "Burbank",
+      "phone_number": "716.898.6450",
+      "id": "91"
+    },
+    {
+      "pharmacy_name": "Moore - Langworth",
+      "location": "Oakland",
+      "phone_number": "596.625.5981 x75248",
+      "id": "92"
+    },
+    {
+      "pharmacy_name": "Cruickshank - Champlin",
+      "location": "Bedford",
+      "phone_number": "(285) 721-4203 x89472",
+      "id": "93"
+    },
+    {
+      "pharmacy_name": "Walter - Runte",
+      "location": "Union City",
+      "phone_number": "616-929-1738",
+      "id": "94"
+    },
+    {
+      "pharmacy_name": "Pacocha Inc",
+      "location": "Frisco",
+      "phone_number": "295-744-3861 x655",
+      "id": "95"
+    },
+    {
+      "pharmacy_name": "Gleason - Labadie",
+      "location": "Decatur",
+      "phone_number": "1-363-889-3520",
+      "id": "96"
+    },
+    {
+      "pharmacy_name": "Schulist and Sons",
+      "location": "San Bruno",
+      "phone_number": "858-762-5168 x67652",
+      "id": "97"
+    },
+    {
+      "pharmacy_name": "King Group",
+      "location": "Pittsburgh",
+      "phone_number": "882.950.0361",
+      "id": "98"
+    },
+    {
+      "pharmacy_name": "Bernier, Dach and Bechtelar",
+      "location": "St. Louis Park",
+      "phone_number": "573-866-9669 x45659",
+      "id": "99"
+    },
+    {
+      "pharmacy_name": "Lakin - Kutch",
+      "location": "Cary",
+      "phone_number": "462.487.3458 x9940",
+      "id": "100"
+    }
+  ]
