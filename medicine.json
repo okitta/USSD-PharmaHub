@@ -1,6 +1,6 @@
 [
     {
-      "name": "Gorgeous",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Greeley",
       "price": "4.00",
       "expiration_date": "2089-05-05T17:17:36.506Z",
@@ -8,7 +8,7 @@
       "id": "1"
     },
     {
-      "name": "Recycled",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Roseville",
       "price": "243.00",
       "expiration_date": "2033-05-28T11:27:12.277Z",
@@ -16,7 +16,7 @@
       "id": "2"
     },
     {
-      "name": "Oriental",
+      "name": "CLOPIDOGREL 75MG TABLET",
       "location": "Beavercreek",
       "price": "511.00",
       "expiration_date": "2060-12-03T01:01:43.455Z",
@@ -24,7 +24,7 @@
       "id": "3"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "Coon Rapids",
       "price": "708.00",
       "expiration_date": "2056-12-07T22:01:05.082Z",
@@ -32,7 +32,7 @@
       "id": "4"
     },
     {
-      "name": "Awesome",
+      "name": "ESCITALOPRAM 10MG TABLET",
       "location": "Petaluma",
       "price": "407.00",
       "expiration_date": "2073-08-04T10:21:33.098Z",
@@ -40,7 +40,7 @@
       "id": "5"
     },
     {
-      "name": "Intelligent",
+      "name": "NAPROXEN 500MG TABLET",
       "location": "Plainfield",
       "price": "654.00",
       "expiration_date": "2047-01-29T07:22:46.821Z",
@@ -48,7 +48,7 @@
       "id": "6"
     },
     {
-      "name": "Handcrafted",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Grand Island",
       "price": "494.00",
       "expiration_date": "2099-09-25T21:36:59.941Z",
@@ -56,7 +56,7 @@
       "id": "7"
     },
     {
-      "name": "Small",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Menifee",
       "price": "790.00",
       "expiration_date": "2052-05-17T11:39:11.147Z",
@@ -64,7 +64,7 @@
       "id": "8"
     },
     {
-      "name": "Licensed",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Ontario",
       "price": "573.00",
       "expiration_date": "2054-12-09T05:55:35.338Z",
@@ -72,7 +72,7 @@
       "id": "9"
     },
     {
-      "name": "Fantastic",
+      "name": "IBUPROFEN 800MG TABLET",
       "location": "San Jacinto",
       "price": "913.00",
       "expiration_date": "2015-02-25T23:22:59.333Z",
@@ -80,7 +80,7 @@
       "id": "10"
     },
     {
-      "name": "Handmade",
+      "name": "OLANZAPINE 5MG TABLET",
       "location": "Waukesha",
       "price": "571.00",
       "expiration_date": "2041-08-04T12:33:24.651Z",
@@ -88,7 +88,7 @@
       "id": "11"
     },
     {
-      "name": "Small",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Milwaukee",
       "price": "821.00",
       "expiration_date": "2091-09-23T18:53:39.825Z",
@@ -96,7 +96,7 @@
       "id": "12"
     },
     {
-      "name": "Bespoke",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Trujillo Alto",
       "price": "90.00",
       "expiration_date": "1991-09-26T03:47:44.890Z",
@@ -104,7 +104,7 @@
       "id": "13"
     },
     {
-      "name": "Electronic",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Country Club",
       "price": "253.00",
       "expiration_date": "2056-08-18T13:37:41.838Z",
@@ -112,7 +112,7 @@
       "id": "14"
     },
     {
-      "name": "Recycled",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Bethlehem",
       "price": "869.00",
       "expiration_date": "2006-10-25T20:28:23.966Z",
@@ -120,7 +120,7 @@
       "id": "15"
     },
     {
-      "name": "Gorgeous",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Santa Cruz",
       "price": "650.00",
       "expiration_date": "2099-07-07T15:30:35.124Z",
@@ -128,7 +128,7 @@
       "id": "16"
     },
     {
-      "name": "Recycled",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Jonesboro",
       "price": "851.00",
       "expiration_date": "2053-06-10T13:32:45.811Z",
@@ -136,7 +136,7 @@
       "id": "17"
     },
     {
-      "name": "Awesome",
+      "name": "ESCITALOPRAM 10MG TABLET",
       "location": "Hamilton",
       "price": "612.00",
       "expiration_date": "1997-07-20T13:59:50.051Z",
@@ -144,7 +144,7 @@
       "id": "18"
     },
     {
-      "name": "Ergonomic",
+      "name": "ATORVASTATIN 10MG TABLET",
       "location": "Kannapolis",
       "price": "960.00",
       "expiration_date": "1997-02-12T00:28:12.077Z",
@@ -152,7 +152,7 @@
       "id": "19"
     },
     {
-      "name": "Rustic",
+      "name": "LAMOTRIGINE 25MG TABLET",
       "location": "Kentwood",
       "price": "860.00",
       "expiration_date": "2021-08-19T08:15:57.758Z",
@@ -160,7 +160,7 @@
       "id": "20"
     },
     {
-      "name": "Rustic",
+      "name": "LAMOTRIGINE 25MG TABLET",
       "location": "Atlanta",
       "price": "116.00",
       "expiration_date": "2073-02-07T01:37:41.115Z",
@@ -168,7 +168,7 @@
       "id": "21"
     },
     {
-      "name": "Recycled",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Portland",
       "price": "953.00",
       "expiration_date": "2093-01-03T18:42:13.011Z",
@@ -176,7 +176,7 @@
       "id": "22"
     },
     {
-      "name": "Recycled",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Mission Viejo",
       "price": "910.00",
       "expiration_date": "2053-09-01T01:38:20.861Z",
@@ -184,7 +184,7 @@
       "id": "23"
     },
     {
-      "name": "Ergonomic",
+      "name": "ATORVASTATIN 10MG TABLET",
       "location": "Sunrise Manor",
       "price": "673.00",
       "expiration_date": "2010-12-21T08:17:44.430Z",
@@ -192,7 +192,7 @@
       "id": "24"
     },
     {
-      "name": "Generic",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Santa Ana",
       "price": "663.00",
       "expiration_date": "2075-10-06T23:47:22.753Z",
@@ -200,7 +200,7 @@
       "id": "25"
     },
     {
-      "name": "Bespoke",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Highlands Ranch",
       "price": "718.00",
       "expiration_date": "2033-06-03T01:44:58.546Z",
@@ -208,7 +208,7 @@
       "id": "26"
     },
     {
-      "name": "Tasty",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Deltona",
       "price": "924.00",
       "expiration_date": "2087-12-31T02:47:58.507Z",
@@ -216,7 +216,7 @@
       "id": "27"
     },
     {
-      "name": "Luxurious",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Buckeye",
       "price": "347.00",
       "expiration_date": "2040-03-07T05:27:49.311Z",
@@ -224,7 +224,7 @@
       "id": "28"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "Mentor",
       "price": "610.00",
       "expiration_date": "2015-05-13T01:00:02.576Z",
@@ -232,7 +232,7 @@
       "id": "29"
     },
     {
-      "name": "Bespoke",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Normal",
       "price": "711.00",
       "expiration_date": "1995-11-29T05:46:38.373Z",
@@ -240,7 +240,7 @@
       "id": "30"
     },
     {
-      "name": "Sleek",
+      "name": "TRIAMTERENE/HCTZ 37.5MG TABLET",
       "location": "Lombard",
       "price": "719.00",
       "expiration_date": "2089-07-06T04:44:27.947Z",
@@ -248,7 +248,7 @@
       "id": "31"
     },
     {
-      "name": "Refined",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Iowa City",
       "price": "827.00",
       "expiration_date": "2086-05-11T22:22:28.919Z",
@@ -256,7 +256,7 @@
       "id": "32"
     },
     {
-      "name": "Awesome",
+      "name": "ESCITALOPRAM 10MG TABLET",
       "location": "Norman",
       "price": "479.00",
       "expiration_date": "2007-05-03T18:42:29.295Z",
@@ -264,7 +264,7 @@
       "id": "33"
     },
     {
-      "name": "Generic",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Port Charlotte",
       "price": "83.00",
       "expiration_date": "2033-05-22T19:54:21.780Z",
@@ -272,7 +272,7 @@
       "id": "34"
     },
     {
-      "name": "Rustic",
+      "name": "LAMOTRIGINE 25MG TABLET",
       "location": "Deltona",
       "price": "318.00",
       "expiration_date": "2026-06-15T03:26:33.037Z",
@@ -280,7 +280,7 @@
       "id": "35"
     },
     {
-      "name": "Handcrafted",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Mobile",
       "price": "27.00",
       "expiration_date": "2037-12-08T15:50:00.957Z",
@@ -288,7 +288,7 @@
       "id": "36"
     },
     {
-      "name": "Incredible",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "El Monte",
       "price": "30.00",
       "expiration_date": "1997-07-31T00:24:06.800Z",
@@ -296,7 +296,7 @@
       "id": "37"
     },
     {
-      "name": "Luxurious",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Orland Park",
       "price": "292.00",
       "expiration_date": "2081-03-28T15:24:05.372Z",
@@ -304,7 +304,7 @@
       "id": "38"
     },
     {
-      "name": "Handmade",
+      "name": "OLANZAPINE 5MG TABLET",
       "location": "Alafaya",
       "price": "670.00",
       "expiration_date": "2019-07-01T18:39:44.132Z",
@@ -312,7 +312,7 @@
       "id": "39"
     },
     {
-      "name": "Fantastic",
+      "name": "IBUPROFEN 800MG TABLET",
       "location": "Worcester",
       "price": "317.00",
       "expiration_date": "2022-04-21T23:43:30.009Z",
@@ -320,7 +320,7 @@
       "id": "40"
     },
     {
-      "name": "Licensed",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Quincy",
       "price": "541.00",
       "expiration_date": "2041-10-05T21:03:50.675Z",
@@ -328,7 +328,7 @@
       "id": "41"
     },
     {
-      "name": "Bespoke",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Hesperia",
       "price": "675.00",
       "expiration_date": "2077-10-25T18:54:26.623Z",
@@ -336,7 +336,7 @@
       "id": "42"
     },
     {
-      "name": "Incredible",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Pontiac",
       "price": "735.00",
       "expiration_date": "2072-06-18T11:30:07.498Z",
@@ -344,7 +344,7 @@
       "id": "43"
     },
     {
-      "name": "Fantastic",
+      "name": "IBUPROFEN 800MG TABLET",
       "location": "Burlington",
       "price": "501.00",
       "expiration_date": "2061-11-12T10:58:36.782Z",
@@ -352,7 +352,7 @@
       "id": "44"
     },
     {
-      "name": "Gorgeous",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Brandon",
       "price": "51.00",
       "expiration_date": "1998-07-03T19:00:26.846Z",
@@ -360,7 +360,7 @@
       "id": "45"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "Bellevue",
       "price": "440.00",
       "expiration_date": "2095-01-18T09:47:54.104Z",
@@ -368,7 +368,7 @@
       "id": "46"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "Orland Park",
       "price": "889.00",
       "expiration_date": "2093-05-05T17:40:46.163Z",
@@ -376,7 +376,7 @@
       "id": "47"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "Spokane",
       "price": "815.00",
       "expiration_date": "2098-04-11T12:08:05.478Z",
@@ -384,7 +384,7 @@
       "id": "48"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "Lakeville",
       "price": "871.00",
       "expiration_date": "2002-11-20T08:43:42.438Z",
@@ -392,7 +392,7 @@
       "id": "49"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "Blue Springs",
       "price": "541.00",
       "expiration_date": "1998-10-19T19:24:39.513Z",
@@ -400,7 +400,7 @@
       "id": "50"
     },
     {
-      "name": "Practical",
+      "name": "FLUOXETINE 20MG CAPSULE",
       "location": "Fontana",
       "price": "382.00",
       "expiration_date": "2078-11-17T17:31:44.781Z",
@@ -408,7 +408,7 @@
       "id": "51"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "San Francisco",
       "price": "539.00",
       "expiration_date": "2013-07-30T00:12:46.869Z",
@@ -416,7 +416,7 @@
       "id": "52"
     },
     {
-      "name": "Elegant",
+      "name": "LEVOTHYROXINE 100MCG",
       "location": "Deerfield Beach",
       "price": "315.00",
       "expiration_date": "2030-12-26T16:28:05.589Z",
@@ -424,7 +424,7 @@
       "id": "53"
     },
     {
-      "name": "Incredible",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Mesquite",
       "price": "199.00",
       "expiration_date": "1999-01-25T03:39:36.024Z",
@@ -432,7 +432,7 @@
       "id": "54"
     },
     {
-      "name": "Oriental",
+      "name": "CLOPIDOGREL 75MG TABLET",
       "location": "St. Peters",
       "price": "559.00",
       "expiration_date": "2013-06-07T05:27:16.198Z",
@@ -440,7 +440,7 @@
       "id": "55"
     },
     {
-      "name": "Luxurious",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Hawthorne",
       "price": "378.00",
       "expiration_date": "2030-04-28T13:44:38.647Z",
@@ -448,7 +448,7 @@
       "id": "56"
     },
     {
-      "name": "Licensed",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Mission",
       "price": "88.00",
       "expiration_date": "2035-05-17T04:01:46.646Z",
@@ -456,7 +456,7 @@
       "id": "57"
     },
     {
-      "name": "Generic",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Santa Monica",
       "price": "939.00",
       "expiration_date": "2046-02-06T02:38:13.673Z",
@@ -464,7 +464,7 @@
       "id": "58"
     },
     {
-      "name": "Sleek",
+      "name": "TRIAMTERENE/HCTZ 37.5MG TABLET",
       "location": "Gary",
       "price": "215.00",
       "expiration_date": "2051-02-10T23:33:27.928Z",
@@ -472,7 +472,7 @@
       "id": "59"
     },
     {
-      "name": "Bespoke",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Jacksonville",
       "price": "894.00",
       "expiration_date": "2012-03-02T07:56:26.393Z",
@@ -480,7 +480,7 @@
       "id": "60"
     },
     {
-      "name": "Oriental",
+      "name": "CLOPIDOGREL 75MG TABLET",
       "location": "Minot",
       "price": "428.00",
       "expiration_date": "2061-10-14T16:06:01.409Z",
@@ -488,7 +488,7 @@
       "id": "61"
     },
     {
-      "name": "Tasty",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Miami Beach",
       "price": "378.00",
       "expiration_date": "2078-04-22T05:36:38.848Z",
@@ -496,7 +496,7 @@
       "id": "62"
     },
     {
-      "name": "Gorgeous",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "El Monte",
       "price": "911.00",
       "expiration_date": "2024-05-26T03:10:42.263Z",
@@ -504,7 +504,7 @@
       "id": "63"
     },
     {
-      "name": "Electronic",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Colorado Springs",
       "price": "874.00",
       "expiration_date": "2081-05-13T18:45:09.187Z",
@@ -512,7 +512,7 @@
       "id": "64"
     },
     {
-      "name": "Fantastic",
+      "name": "IBUPROFEN 800MG TABLET",
       "location": "Mission Viejo",
       "price": "595.00",
       "expiration_date": "2005-04-22T18:47:17.283Z",
@@ -520,7 +520,7 @@
       "id": "65"
     },
     {
-      "name": "Gorgeous",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Poinciana",
       "price": "312.00",
       "expiration_date": "1998-04-13T08:25:45.570Z",
@@ -528,7 +528,7 @@
       "id": "66"
     },
     {
-      "name": "Ergonomic",
+      "name": "ATORVASTATIN 10MG TABLET",
       "location": "Encinitas",
       "price": "506.00",
       "expiration_date": "2091-10-25T06:26:00.492Z",
@@ -536,7 +536,7 @@
       "id": "67"
     },
     {
-      "name": "Awesome",
+      "name": "ESCITALOPRAM 10MG TABLET",
       "location": "Buffalo",
       "price": "794.00",
       "expiration_date": "2067-08-18T10:29:10.915Z",
@@ -544,7 +544,7 @@
       "id": "68"
     },
     {
-      "name": "Licensed",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Warwick",
       "price": "363.00",
       "expiration_date": "2075-10-17T01:17:01.925Z",
@@ -552,7 +552,7 @@
       "id": "69"
     },
     {
-      "name": "Refined",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Long Beach",
       "price": "558.00",
       "expiration_date": "2069-01-15T20:10:10.610Z",
@@ -560,7 +560,7 @@
       "id": "70"
     },
     {
-      "name": "Refined",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "La Crosse",
       "price": "599.00",
       "expiration_date": "2099-07-04T15:34:04.805Z",
@@ -568,7 +568,7 @@
       "id": "71"
     },
     {
-      "name": "Small",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Miami Gardens",
       "price": "870.00",
       "expiration_date": "2073-05-19T22:41:58.025Z",
@@ -576,7 +576,7 @@
       "id": "72"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "San Rafael",
       "price": "108.00",
       "expiration_date": "2000-01-25T11:52:07.203Z",
@@ -584,7 +584,7 @@
       "id": "73"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "Mission",
       "price": "817.00",
       "expiration_date": "2088-05-24T23:56:04.651Z",
@@ -592,7 +592,7 @@
       "id": "74"
     },
     {
-      "name": "Intelligent",
+      "name": "NAPROXEN 500MG TABLET",
       "location": "North Miami Beach",
       "price": "712.00",
       "expiration_date": "2099-08-09T05:21:19.361Z",
@@ -600,7 +600,7 @@
       "id": "75"
     },
     {
-      "name": "Incredible",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "Warner Robins",
       "price": "71.00",
       "expiration_date": "2073-11-07T06:18:39.409Z",
@@ -608,7 +608,7 @@
       "id": "76"
     },
     {
-      "name": "Recycled",
+      "name": "OMEPRAZOLE 20MG CAPSULE",
       "location": "Wesley Chapel",
       "price": "276.00",
       "expiration_date": "2060-10-04T10:33:39.559Z",
@@ -616,7 +616,7 @@
       "id": "77"
     },
     {
-      "name": "Handcrafted",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Newport News",
       "price": "215.00",
       "expiration_date": "2005-01-10T19:58:19.669Z",
@@ -624,7 +624,7 @@
       "id": "78"
     },
     {
-      "name": "Refined",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Sandy Springs",
       "price": "955.00",
       "expiration_date": "2077-07-19T07:31:38.746Z",
@@ -632,7 +632,7 @@
       "id": "79"
     },
     {
-      "name": "Bespoke",
+      "name": "SIMVASTATIN 20MG TABLET",
       "location": "Shreveport",
       "price": "536.00",
       "expiration_date": "2066-04-06T08:09:53.297Z",
@@ -640,7 +640,7 @@
       "id": "80"
     },
     {
-      "name": "Licensed",
+      "name": "PENICILLIN -VK 500MG TABLET",
       "location": "North Highlands",
       "price": "42.00",
       "expiration_date": "2092-01-23T18:04:46.241Z",
@@ -648,7 +648,7 @@
       "id": "81"
     },
     {
-      "name": "Luxurious",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Reston",
       "price": "311.00",
       "expiration_date": "2008-04-19T07:40:00.078Z",
@@ -656,7 +656,7 @@
       "id": "82"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "Davis",
       "price": "442.00",
       "expiration_date": "2029-09-12T23:37:35.040Z",
@@ -664,7 +664,7 @@
       "id": "83"
     },
     {
-      "name": "Handmade",
+      "name": "OLANZAPINE 5MG TABLET",
       "location": "Portsmouth",
       "price": "901.00",
       "expiration_date": "2089-05-13T03:26:43.546Z",
@@ -672,7 +672,7 @@
       "id": "84"
     },
     {
-      "name": "Sleek",
+      "name": "TRIAMTERENE/HCTZ 37.5MG TABLET",
       "location": "Rogers",
       "price": "293.00",
       "expiration_date": "2040-10-29T03:47:21.436Z",
@@ -680,7 +680,7 @@
       "id": "85"
     },
     {
-      "name": "Intelligent",
+      "name": "NAPROXEN 500MG TABLET",
       "location": "Georgetown",
       "price": "599.00",
       "expiration_date": "2016-09-29T17:02:58.307Z",
@@ -688,7 +688,7 @@
       "id": "86"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "Lubbock",
       "price": "918.00",
       "expiration_date": "2029-12-31T10:38:20.183Z",
@@ -696,7 +696,7 @@
       "id": "87"
     },
     {
-      "name": "Sleek",
+      "name": "TRIAMTERENE/HCTZ 37.5MG TABLET",
       "location": "La Crosse",
       "price": "288.00",
       "expiration_date": "2029-07-10T09:51:08.331Z",
@@ -704,7 +704,7 @@
       "id": "88"
     },
     {
-      "name": "Intelligent",
+      "name": "NAPROXEN 500MG TABLET",
       "location": "Avondale",
       "price": "685.00",
       "expiration_date": "2003-10-29T19:31:16.419Z",
@@ -712,7 +712,7 @@
       "id": "89"
     },
     {
-      "name": "Modern",
+      "name": "QUETIAPINE 100MG TABLET",
       "location": "Kissimmee",
       "price": "955.00",
       "expiration_date": "2059-09-15T06:59:25.382Z",
@@ -720,7 +720,7 @@
       "id": "90"
     },
     {
-      "name": "Awesome",
+      "name": "ESCITALOPRAM 10MG TABLET",
       "location": "Elkhart",
       "price": "328.00",
       "expiration_date": "2043-04-10T22:33:35.100Z",
@@ -728,7 +728,7 @@
       "id": "91"
     },
     {
-      "name": "Rustic",
+      "name": "LAMOTRIGINE 25MG TABLET",
       "location": "Fishers",
       "price": "975.00",
       "expiration_date": "2082-03-01T16:15:41.713Z",
@@ -736,7 +736,7 @@
       "id": "92"
     },
     {
-      "name": "Awesome",
+      "name": "ESCITALOPRAM 10MG TABLET",
       "location": "Silver Spring",
       "price": "562.00",
       "expiration_date": "1991-07-06T19:57:38.487Z",
@@ -744,7 +744,7 @@
       "id": "93"
     },
     {
-      "name": "Elegant",
+      "name": "LEVOTHYROXINE 100MCG",
       "location": "Santa Monica",
       "price": "637.00",
       "expiration_date": "2083-06-18T16:32:28.233Z",
@@ -752,7 +752,7 @@
       "id": "94"
     },
     {
-      "name": "Tasty",
+      "name": "AMOXICILLIN 500MG CAPSULE",
       "location": "Grand Island",
       "price": "27.00",
       "expiration_date": "2055-05-08T21:49:29.088Z",
@@ -760,7 +760,7 @@
       "id": "95"
     },
     {
-      "name": "Unbranded",
+      "name": "METOPROLOL 50MG TABLET",
       "location": "East Los Angeles",
       "price": "428.00",
       "expiration_date": "2079-08-20T08:17:35.302Z",
@@ -768,7 +768,7 @@
       "id": "96"
     },
     {
-      "name": "Refined",
+      "name": "MONTELUKAST SOD 10 MG TABLET",
       "location": "Rancho Palos Verdes",
       "price": "418.00",
       "expiration_date": "2000-08-25T10:26:23.791Z",
@@ -776,7 +776,7 @@
       "id": "97"
     },
     {
-      "name": "Luxurious",
+      "name": "TERBINAFINE 250MG TABLET",
       "location": "Redondo Beach",
       "price": "762.00",
       "expiration_date": "2083-01-01T07:36:06.665Z",
@@ -784,7 +784,7 @@
       "id": "98"
     },
     {
-      "name": "Handmade",
+      "name": "OLANZAPINE 5MG TABLET",
       "location": "Waldorf",
       "price": "637.00",
       "expiration_date": "2011-05-14T07:41:26.385Z",
@@ -792,7 +792,7 @@
       "id": "99"
     },
     {
-      "name": "Handmade",
+      "name": "OLANZAPINE 5MG TABLET",
       "location": "Cedar Park",
       "price": "772.00",
       "expiration_date": "2091-06-29T02:35:47.220Z",
